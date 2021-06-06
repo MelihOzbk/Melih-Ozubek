@@ -1,5 +1,6 @@
 # Geliştirici Sayfama Hoş Geldiniz.
 Merhaba ben Melih!
+Github sayfam [Link](https://github.com/MelihOzbk)
 ### Uğraş alanlarım:
 1. Render Art
 2. Level Design
@@ -8,7 +9,7 @@ Merhaba ben Melih!
 ## İletişim Adreslerim ve Portfölyom
 1. melihozubek.19@gmail.com
 2. Telegram melihz
-3. Behance https://www.behance.net/melihozubek
+3. Behance [Link](https://www.behance.net/melihozubek)
 
 ### Jekyll Themes
 
