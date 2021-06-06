@@ -11,6 +11,3 @@ Github [sayfam](https://github.com/MelihOzbk)
 2. Telegram [melihz](https://t.me/melihz)
 3. Behance [sayfam](https://www.behance.net/melihozubek)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MelihOzbk/MelihOzbk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
